@@ -1,16 +1,16 @@
-, Calories, Fat (g), Carb. (g), Fiber (g), Protein (g)
-Bacon Gouda & Egg Breakfast Sandwich, 370, 19, 32, 1, 18
-Classic Oatmeal, 160, 2.5, 28, 4, 5
-Double-Smoked Bacon Cheddar & Egg Sandwich, 490, 27, 40, 1, 21
-Everything Croissant Pastrami & Cheddar Breakfast Sandwich, 460, 22, 45, 1, 22
-Ham & Cheese Croissant, 320, 17, 28, 1, 14
-Hearty Blueberry Oatmeal, 220, 2.5, 43, 5, 5
-Reduced-Fat Turkey Bacon & Cage Free Egg White Breakfast Sandwich, 210, 5, 26, 3, 18
-Sausage Cheddar & Egg Breakfast Sandwich, 500, 28, 41, 1, 15
-Seared Steak Egg & Tomatillo Wrap, 410, 18, 43, 2, 21
-Slow-Roasted Ham Swiss & Egg Breakfast Sandwich, 450, 23, 42, 1, 24
-Sous Vide Egg Bites: Bacon & Gruyere, 310, 22, 9, 0, 19
-Sous Vide Egg Bites: Chicken Chorizo Tortilla, 230, 13, 13, 0, 15
-Sous Vide Egg Bites: Egg White & Red Pepper, 170, 7, 13, 1, 13
-Spicy Chorizo Monterey Jack & Egg Breakfast Sandwich, 500, 30, 35, 3, 26
-Spinach Feta & Cage Free Egg White Breakfast Wrap, 290, 10, 33, 6, 19
+, Calories, Fat (g), Carb. (g), Fiber (g), Protein (g), Price (USD)
+Bacon Gouda & Egg Breakfast Sandwich, 370, 19, 32, 1, 18, 3.75
+Classic Oatmeal, 160, 2.5, 28, 4, 5, 3.45
+Double-Smoked Bacon Cheddar & Egg Sandwich, 490, 27, 40, 1, 21, 4.75
+Everything Croissant Pastrami & Cheddar Breakfast Sandwich, 460, 22, 45, 1, 22,
+Ham & Cheese Croissant, 320, 17, 28, 1, 14,
+Hearty Blueberry Oatmeal, 220, 2.5, 43, 5, 5, 3.45
+Reduced-Fat Turkey Bacon & Cage Free Egg White Breakfast Sandwich, 210, 5, 26, 3, 18, 3.75
+Sausage Cheddar & Egg Breakfast Sandwich, 500, 28, 41, 1, 15, 3.45
+Seared Steak Egg & Tomatillo Wrap, 410, 18, 43, 2, 21,
+Slow-Roasted Ham Swiss & Egg Breakfast Sandwich, 450, 23, 42, 1, 24, 4.75
+Sous Vide Egg Bites: Bacon & Gruyere, 310, 22, 9, 0, 19,
+Sous Vide Egg Bites: Chicken Chorizo Tortilla, 230, 13, 13, 0, 15,
+Sous Vide Egg Bites: Egg White & Red Pepper, 170, 7, 13, 1, 13,
+Spicy Chorizo Monterey Jack & Egg Breakfast Sandwich, 500, 30, 35, 3, 26,
+Spinach Feta & Cage Free Egg White Breakfast Wrap, 290, 10, 33, 6, 19, 3.75
