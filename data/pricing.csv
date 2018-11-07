@@ -1,4 +1,4 @@
-,country_name,locality_name,market_name,commodity_name,currency_name,market_type,unit_of_goods_measurement,mp_price
+,country_name,locality_name,market_name,commodity_name,currency_name,market_type,unit_of_goods_measurement,price
 0,Afghanistan,$Daykundi,Nili,Bread,AFN,Retail,KG,51.72
 1,Afghanistan,$Daykundi,Nili,Rice,AFN,Retail,KG,67.0
 2,Afghanistan,$Daykundi,Nili,Wheat,AFN,Retail,KG,29.0
